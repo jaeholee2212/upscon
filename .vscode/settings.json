@@ -1,0 +1,7 @@
+{
+    "editor.insertSpaces": true,
+    "terminal.integrated.commandsToSkipShell": [
+        "-workbench.action.quickOpen",
+        "-extension.vim_ctrl+k"
+    ]
+}
